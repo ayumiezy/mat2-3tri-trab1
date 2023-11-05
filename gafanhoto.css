@@ -2,7 +2,7 @@
 *{
     margin: 0;
     padding: 0;
-    color: rgb(187, 207, 247);
+    color: rgb(223, 189, 0))
     box-sizing: border-box;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
@@ -67,7 +67,7 @@ container{
 
 .container .card .content h3{
     font-size: 0.8cm;
-    color:#191970;
+    color:rgba(43, 0, 0, 0.719))0, 0, 0.992);
     z-index: 1;
 }
 
