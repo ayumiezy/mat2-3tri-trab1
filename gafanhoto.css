@@ -2,7 +2,7 @@
 *{
     margin: 0;
     padding: 0;
-    color: rgb(203, 219, 252);
+    color: rgb(187, 207, 247);
     box-sizing: border-box;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
@@ -12,7 +12,7 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: #ddddf5;
+    background: #8c8cdf;
     background-image: url("desn.png")
 }
 
