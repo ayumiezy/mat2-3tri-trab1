@@ -13,6 +13,7 @@ body{
     align-items: center;
     min-height: 100vh;
     background: #191970;
+    background-image: url("sobrenatural.jpg")
 }
 
 container{
@@ -38,17 +39,15 @@ container{
     justify-content: center;
     border-top: 1px solid rgba(255, 255, 255, 0.5);
     border-left: 1px solid rgba(255, 255, 255, 0.5);
+    background-image: url("dean.jpg.jpg")
 }
 
 .container .card .content{
-    padding: 65px;
+    padding: 20px;
     text-align: center;
     transform: translateY(100px);
     opacity: 0;
     transition: 0.5s;
-    background-image: url("dean.jpg.jpg");
-    background-repeat: no-repeat;
-     background-position: 200px 400px;
 }
 
 .container .card:hover .content{
@@ -78,5 +77,3 @@ color: #fff;
 font-weight: 300;
 
 }
-
-.container .card .content
