@@ -45,7 +45,7 @@ container{
     transform: translateY(100px);
     opacity: 0;
     transition: 0.5s;
-    background-image: url("supernatural.png");
+    background-image: url("dean.jpg.jpg");
 }
 
 .container .card:hover .content{
