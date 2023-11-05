@@ -20,7 +20,7 @@ container{
     display: flex;
     justify-content: center;
     align-items: center;
-    max-width: 200px;
+    max-width: 1200px;
     flex-wrap: wrap;
     z-index: 1;
 }
@@ -76,6 +76,15 @@ font-size: 1cm;
 color: #fff;
 font-weight: 300;
 
+}
+
+.container .card2 .content2{
+    padding: 20px;
+    text-align: center;
+    transform: translateY(100px);
+    opacity: 0;
+    transition: 0.5s;
+    background-image: url("dean2.png")
 }
 
 
