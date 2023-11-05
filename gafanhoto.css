@@ -45,8 +45,7 @@ container{
     transform: translateY(100px);
     opacity: 0;
     transition: 0.5s;
-    background: #FFFFFF url("supernatural.png") no-repeat right top fixed;
-
+    background-image: url("supernatural.png");
 }
 
 .container .card:hover .content{
