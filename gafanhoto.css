@@ -109,7 +109,7 @@ font-weight: 300;
     transform: translateY(100px);
     opacity: 0;
     transition: 0.5s;
-    background-image: url("dean2.png")
+    background-image: url("castiel.jpeg");
 }
 
 .container .card3:hover .content3{
