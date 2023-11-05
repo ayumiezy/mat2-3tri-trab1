@@ -1,7 +1,7 @@
 *{
     margin: 0;
     padding: 0;
-    color: azure;
+    color: rgb(100 149 237);
     box-sizing: border-box;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
@@ -31,7 +31,7 @@ container{
     margin: 30x;
     box-shadow: 20px 20px 50px rgba(0,0,0,0.5);
     border-radius: 15px; 
-    background: rgb(100 149 237	);
+    background: rgba(255,255, 255,0.1);
     overflow: hidden;
     display: flex;
     justify-content: center;
