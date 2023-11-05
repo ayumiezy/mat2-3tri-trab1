@@ -48,7 +48,8 @@ container{
     transition: 0.5s;
     background-image: url("dean.jpg.jpg");
     background-repeat: no-repeat;
-     background-position: 200px 400px;
+    background-position: 200px 400px;
+    border-radius: 20px;
 }
 
 .container .card:hover .content{
@@ -62,4 +63,21 @@ container{
     right: 30px;
     font-size: 8cm;
     color: rgba(0,0,0,0.005);
+    pointer-events: none;
+
 }
+
+.container .card .content h3{
+    font-size: 1.8cm;
+    color:#fff;
+    z-index: 1;
+}
+
+.container .card .content p{
+font-size: 1cm;
+color: #fff;
+font-weight: 300;
+
+}
+
+.container .card .content 
