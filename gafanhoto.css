@@ -47,6 +47,8 @@ container{
     opacity: 0;
     transition: 0.5s;
     background-image: url("dean.jpg.jpg");
+    background-repeat: no-repeat;
+     background-position: 200px 200px;
 }
 
 .container .card:hover .content{
