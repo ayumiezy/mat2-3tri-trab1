@@ -48,7 +48,7 @@ container{
     transition: 0.5s;
     background-image: url("dean.jpg.jpg");
     background-repeat: no-repeat;
-    background-position: 200px 400px;
+     background-position: 200px 400px;
 }
 
 .container .card:hover .content{
@@ -79,4 +79,4 @@ font-weight: 300;
 
 }
 
-.container .card .content 
+.container .card .content
