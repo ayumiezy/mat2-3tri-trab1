@@ -8,6 +8,7 @@
 }
 .container img {
      max-width: 700px; 
+     max-height: 500; 
     }
 
 body{
