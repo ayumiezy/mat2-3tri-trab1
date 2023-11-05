@@ -6,13 +6,15 @@
     box-sizing: border-box;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+.container img {
+     max-width: 200px; 
+    }
 
 body{
     display: flex;
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background-image: url(sobrenatural.jpg);
 }
 
 container{
