@@ -78,13 +78,67 @@ font-weight: 300;
 
 }
 
-.container .card2 .content2{
+
+
+
+
+
+
+
+
+
+
+.container .card3{
+    position: relative;
+    width: 280px;
+    height: 400px;
+    margin: 30x;
+    box-shadow: 20px 20px 50px rgba(0,0,0,0.5);
+    border-radius: 15px; 
+    background: rgba(255,255, 255,0.1);
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    border-top: 1px solid rgba(255, 255, 255, 0.5);
+    border-left: 1px solid rgba(255, 255, 255, 0.5);
+
+}
+
+.container .card3 .content3{
     padding: 20px;
     text-align: center;
     transform: translateY(100px);
     opacity: 0;
     transition: 0.5s;
     background-image: url("dean2.png")
+}
+
+.container .card3:hover .content3{
+    transform: translateY(0px);
+    opacity: 1;
+}
+
+.container .card3 .content3 h2{
+    position: absolute;
+    top: -80px;
+    right: 30px;
+    font-size: 8cm;
+    color: rgba(0,0,0,0.005);
+    pointer-events: none;
+
+}
+
+.container .card3 .content3 h3{
+    font-size: 0.8cm;
+    color:#191970;
+    z-index: 1;
+}
+
+.container .card3 .content3 p{
+font-size: 1cm;
+color: #fff;
+font-weight: 300;
+
 }
 
 
