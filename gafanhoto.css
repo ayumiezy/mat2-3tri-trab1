@@ -103,7 +103,7 @@ font-weight: 300;
     transform: translateY(100px);
     opacity: 0;
     transition: 0.5s;
-    background-image: url("sam.jpeg");
+    background-image: url("castiel.jpeg");
 }
 
 .container .card2:hover .content2{
