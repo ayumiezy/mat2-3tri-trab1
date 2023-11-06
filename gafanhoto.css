@@ -38,7 +38,7 @@ container{
     justify-content: center;
     border-top: 1px solid rgba(255, 255, 255, 0.5);
     border-left: 1px solid rgba(255, 255, 255, 0.5);
-    margin-top: 5px 10px;
+    
 
 }
 
@@ -49,6 +49,7 @@ container{
     opacity: 0;
     transition: 0.5s;
     background-image: url("dean2.png");
+    margin-top: 5px 10px;
 }
 
 .container .card:hover .content{
@@ -95,7 +96,7 @@ font-weight: 300;
     justify-content: center;
     border-top: 1px solid rgba(255, 255, 255, 0.5);
     border-left: 1px solid rgba(255, 255, 255, 0.5);
-    margin-top: 5px 10px;
+
 }
 
 .container .card4 .content4{
@@ -105,6 +106,7 @@ font-weight: 300;
     opacity: 0;
     transition: 0.5s;
     background-image: url("sam.jpeg");
+    margin-top: 5px 10px;
 }
 
 .container .card4:hover .content4{
@@ -152,7 +154,7 @@ color: #a08940;font-weight: 300;
     justify-content: center;
     border-top: 1px solid rgba(255, 255, 255, 0.5);
     border-left: 1px solid rgba(255, 255, 255, 0.5);
-    margin-top: 5px 10px;
+
 }
 
 .container .card3 .content3{
@@ -162,6 +164,7 @@ color: #a08940;font-weight: 300;
     opacity: 0;
     transition: 0.5s;
     background-image: url("castiel.jpeg");
+    margin-top: 5px 10px;
 }
 
 .container .card3:hover .content3{
