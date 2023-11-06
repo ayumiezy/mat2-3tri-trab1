@@ -27,7 +27,7 @@ container{
 
 .container .card{
     position: relative;
-    width: 480px;
+    width: 280px;
     height: 400px;
     margin: 30x;
     box-shadow: 20px 20px 50px rgba(0,0,0,0.5);
