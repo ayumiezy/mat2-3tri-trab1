@@ -81,7 +81,7 @@ font-weight: 300;
 
 
 
-.container .card2{
+.container .card4{
     position: relative;
     width: 280px;
     height: 400px;
@@ -97,21 +97,21 @@ font-weight: 300;
 
 }
 
-.container .card2 .content2{
+.container .card4 .content4{
     padding: 20px;
     text-align: center;
     transform: translateY(100px);
     opacity: 0;
     transition: 0.5s;
-    background-image: url("castiel.jpeg");
+    background-image: url("sam.jpeg");
 }
 
-.container .card2:hover .content2{
+.container .card4:hover .content4{
     transform: translateY(0px);
     opacity: 1;
 }
 
-.container .card2 .content2 h2{
+.container .card4 .content2 h4{
     position: absolute;
     top: -80px;
     right: 30px;
@@ -121,13 +121,13 @@ font-weight: 300;
 
 }
 
-.container .card2 .content2 h3{
+.container .card4 .content4 h3{
     font-size: 0.8cm;
     color:rgba(43, 0, 0, 0.719);
     z-index: 1;
 }
 
-.container .card2 .content2 p{
+.container .card4 .content4 p{
 font-size: 0.5cm;
 color: #a08940;font-weight: 300;
 
