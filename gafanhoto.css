@@ -47,7 +47,7 @@ container{
     transform: translateY(100px);
     opacity: 0;
     transition: 0.5s;
-    background-image: url("sam.jpeg");
+    background-image: url("dean2.png");
 }
 
 .container .card:hover .content{
