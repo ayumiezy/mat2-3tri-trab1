@@ -23,7 +23,6 @@ container{
     max-width: 1200px;
     flex-wrap: wrap;
     z-index: 1;
-    margin-top: 5px 10px;
 }
 
 .container .card{
@@ -39,6 +38,7 @@ container{
     justify-content: center;
     border-top: 1px solid rgba(255, 255, 255, 0.5);
     border-left: 1px solid rgba(255, 255, 255, 0.5);
+    margin-top: 5px 10px;
 
 }
 
@@ -95,7 +95,7 @@ font-weight: 300;
     justify-content: center;
     border-top: 1px solid rgba(255, 255, 255, 0.5);
     border-left: 1px solid rgba(255, 255, 255, 0.5);
-
+    margin-top: 5px 10px;
 }
 
 .container .card4 .content4{
@@ -152,7 +152,7 @@ color: #a08940;font-weight: 300;
     justify-content: center;
     border-top: 1px solid rgba(255, 255, 255, 0.5);
     border-left: 1px solid rgba(255, 255, 255, 0.5);
-
+    margin-top: 5px 10px;
 }
 
 .container .card3 .content3{
